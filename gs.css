@@ -17,7 +17,7 @@
     color: blueviolet;
 }
 .LANE{
-    color:orange ;
+    color:palevioletred ;
 }
 
 table {
@@ -42,4 +42,15 @@ th{
 }
 tr:nth-child(odd) {
     background-color:azure;
+}
+
+.LANE:hover{
+    text-shadow: 1px 4px 1px rgba(1, 2, 14, 0.6);
+    filter: blur(1px);
+    border: 1px solid;
+}
+.BAUER:hover{
+    text-shadow: 1px 4px 1px rgba(1, 2, 14, 0.6);
+    filter: blur(1px);
+    border: 1px solid;
 }
