@@ -1,0 +1,21 @@
+.speech{
+    font-family: Times New Roman;
+    font-size: 15px;
+    color: black;
+}
+.direction{
+    color:black;
+    font-family: Courier;
+    font-size: 10px;
+    background-color: aqua;
+}
+.direction:hover{
+    background-color: bisque; 
+    color:blue  
+}
+.BAUER{
+    color: blueviolet;
+}
+.LANE{
+    color:orange ;
+}
