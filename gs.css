@@ -54,3 +54,20 @@ tr:nth-child(odd) {
     filter: blur(1px);
     border: 1px solid;
 }
+ul.navbar-horizontal{
+    display: flex;
+}
+ul{
+    display: flex;
+    margin: 20px;
+    border: 0cm;
+
+  }
+  li{
+    margin-left: 20px;
+    list-style: none;
+    color: blue;
+  }
+  li a{
+    text-decoration: none;
+  }
